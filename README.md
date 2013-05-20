@@ -21,4 +21,4 @@ Create a data bag named "boundary/account" with the json:
       "apikey": "your-apikey-here"
     }
 
-Add the `chef-boundary-events-handler` cookbook your node (via run_list, to a "base" cookbook, whatever works best for your enviironment
+Add the `chef-boundary-events-handler` cookbook your node - via run_list, to a "base" cookbook, whatever works best for your environment
